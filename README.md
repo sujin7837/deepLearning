@@ -15,3 +15,20 @@ https://sujin7837.tistory.com/24
 ### 5주차
 ### 6주차
 
+# Additional Learning
+### Keras
+loss 함수  
+https://sujin7837.tistory.com/25
+
+### Optimizer
+Optimizer의 종류  
+https://sujin7837.tistory.com/26
+
+### Training Neural Network
+epoch, batch, and iteration  
+https://sujin7837.tistory.com/27
+
+### Tensor의 구조
+Shape & Reshape  
+https://sujin7837.tistory.com/28
+
