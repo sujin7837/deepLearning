@@ -35,3 +35,6 @@ https://sujin7837.tistory.com/27
 Shape & Reshape  
 https://sujin7837.tistory.com/28
 
+### 다차원 배열의 축  
+Axis  
+https://sujin7837.tistory.com/30
