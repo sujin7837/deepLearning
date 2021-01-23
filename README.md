@@ -11,7 +11,10 @@ https://sujin7837.tistory.com/23
 Soft classification  
 https://sujin7837.tistory.com/24
 
-### 4주차
+### 4주차  
+딥러닝의 기본 개념  
+https://sujin7837.tistory.com/29  
+
 ### 5주차
 ### 6주차
 
