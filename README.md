@@ -15,8 +15,21 @@ https://sujin7837.tistory.com/24
 딥러닝의 기본 개념  
 https://sujin7837.tistory.com/29  
 
-### 5주차
-### 6주차
+### 5주차 
+딥 네트워크 학습  
+https://sujin7837.tistory.com/32  
+
+### 6주차 
+ReLU  
+https://sujin7837.tistory.com/40  
+Weight의 초기값 설정하기  
+https://sujin7837.tistory.com/41  
+
+### 7주차 
+CNN(Convolutional Neural Network)  
+https://sujin7837.tistory.com/47  
+여러가지 CNN 알고리즘  
+https://sujin7837.tistory.com/48  
 
 # Additional Learning
 ### Keras
