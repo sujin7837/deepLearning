@@ -31,6 +31,10 @@ https://sujin7837.tistory.com/47
 여러가지 CNN 알고리즘  
 https://sujin7837.tistory.com/48  
 
+### 8주차  
+NN의 꽃 RNN 이야기  
+https://sujin7837.tistory.com/55  
+
 # Additional Learning
 ### Keras
 loss 함수  
