@@ -38,7 +38,9 @@ https://sujin7837.tistory.com/55
 # Additional Learning
 ### Keras
 loss 함수  
-https://sujin7837.tistory.com/25
+https://sujin7837.tistory.com/25  
+to_categorial 함수  
+https://sujin7837.tistory.com/57  
 
 ### Optimizer
 Optimizer의 종류  
@@ -58,4 +60,8 @@ https://sujin7837.tistory.com/30
 
 ### Tensor Manipulation  
 Stack & Ones and Zeros like & Zip  
-https://sujin7837.tistory.com/31
+https://sujin7837.tistory.com/31  
+
+### 순환신경망  
+LSTM, GRU  
+https://sujin7837.tistory.com/58  
